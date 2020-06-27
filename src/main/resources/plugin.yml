@@ -1,0 +1,4 @@
+name: VoidAlert
+version: ${project.version}
+main: com.mcsunnyside.voidalert.VoidAlert
+api-version: 1.13
